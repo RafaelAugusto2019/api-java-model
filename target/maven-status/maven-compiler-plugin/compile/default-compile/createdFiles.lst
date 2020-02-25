@@ -1,1 +1,5 @@
+br/com/modelo/resource/recurso.class
+br/com/modelo/service/servico.class
 br/com/modelo/ApiRestEnconfixApplication.class
+br/com/modelo/interfaces/PessoaRepository.class
+br/com/modelo/entity/Pessoa.class
